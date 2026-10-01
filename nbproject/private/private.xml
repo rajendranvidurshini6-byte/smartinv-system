@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/dao/StockDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/util/PasswordUtil.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/UserServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/model/Stock.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/model/Report.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/DashboardServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/model/Category.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/model/Product.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/model/User.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/util/ValidationUtil.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/ReportServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/InventoryServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/ProductServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/test/filter/AuthFilterTest.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/dao/ReportDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/filter/EncodingFilter.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/filter/AuthFilter.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/SmartInv/src/java/util/DBConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
